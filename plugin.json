@@ -1,6 +1,12 @@
 {
 	"name" : "Twitter",
+<<<<<<< HEAD
 	"author" : "CodedNinja",
 	"description" : "Returns the latest tweet from the specified user with or without a hashtag.",
 	"url" : "http://www.codedninja/"
+=======
+	"author" : "Chad Smith <chad@nospam.me>",
+	"description" : "Returns the latest tweet from the specified user.",
+	"url" : "http://twitter.com/chadsmith"
+>>>>>>> 172960aac0199dd7059f9b18661c258b42652a30
 }
