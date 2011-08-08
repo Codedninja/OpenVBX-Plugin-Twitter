@@ -1,0 +1,6 @@
+{
+	"name" : "Twitter",
+	"author" : "CodedNinja",
+	"description" : "Returns the latest tweet from the specified user with or without a hashtag.",
+	"url" : "http://www.codedninja/"
+}

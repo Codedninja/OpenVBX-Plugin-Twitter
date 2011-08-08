@@ -1,0 +1,8 @@
+{
+	"name" : "Twitter",
+	"sms_name" : "Twitter",
+	"voice_title" : "Twitter",
+	"sms_title" : "Twitter",
+	"description" : "Returns the latest tweet from the specified user with or without a hashtag.",
+	"type" : ["sms", "voice"]
+}
